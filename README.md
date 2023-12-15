@@ -1,4 +1,4 @@
-This repo contains the codes, images and datasets for the paper - `U-Trustworthy Models. Reliability, Competence, and Confidence in Decision-Making`.
+This repo contains the codes, figures and datasets for the paper - `U-Trustworthy Models. Reliability, Competence, and Confidence in Decision-Making`.
 
 
 ## Abstract:
